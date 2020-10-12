@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-isprime-service"
+  ],
+  "listener_keys": [
+    "listener-isprime-service",
+    "listener-isprime-service-2"
+  ],
+  "listeners": null,
+  "name": "isprime-service",
+  "proxy_filters": {},
+  "proxy_key": "proxy-isprime-service",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

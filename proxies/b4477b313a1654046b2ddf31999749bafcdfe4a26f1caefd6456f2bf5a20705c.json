@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-fibonacci-service"
+  ],
+  "listener_keys": [
+    "listener-fibonacci-service",
+    "listener-fibonacci-service-2"
+  ],
+  "listeners": null,
+  "name": "fibonacci-service",
+  "proxy_filters": {},
+  "proxy_key": "proxy-fibonacci-service",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-sleepy-service"
+  ],
+  "listener_keys": [
+    "listener-sleepy-service",
+    "listener-sleepy-service-2"
+  ],
+  "listeners": null,
+  "name": "sleepy-service",
+  "proxy_filters": {},
+  "proxy_key": "proxy-sleepy-service",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

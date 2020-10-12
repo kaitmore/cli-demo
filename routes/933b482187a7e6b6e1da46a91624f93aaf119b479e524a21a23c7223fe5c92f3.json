@@ -1,0 +1,20 @@
+{
+  "checksum": "",
+  "cohort_seed": null,
+  "domain_key": "domain-edge",
+  "filter_metadata": null,
+  "high_priority": false,
+  "path": "/services/example-service/latest/",
+  "prefix_rewrite": "/",
+  "redirects": null,
+  "response_data": {},
+  "retry_policy": null,
+  "route_key": "route-example-service-slash",
+  "route_match": {
+    "path": "",
+    "match_type": ""
+  },
+  "rules": null,
+  "shared_rules_key": "shared-rules-example-service",
+  "zone_key": "zone-default-zone"
+}

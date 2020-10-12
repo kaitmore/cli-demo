@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-prometheus"
+  ],
+  "listener_keys": [
+    "listener-prometheus",
+    "listener-prometheus-2"
+  ],
+  "listeners": null,
+  "name": "prometheus",
+  "proxy_filters": {},
+  "proxy_key": "proxy-prometheus",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

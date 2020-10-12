@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-gm-control-api"
+  ],
+  "listener_keys": [
+    "listener-gm-control-api",
+    "listener-gm-control-api-2"
+  ],
+  "listeners": null,
+  "name": "gm-control-api",
+  "proxy_filters": {},
+  "proxy_key": "proxy-gm-control-api",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

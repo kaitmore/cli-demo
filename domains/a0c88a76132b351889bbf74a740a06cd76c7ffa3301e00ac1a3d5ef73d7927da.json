@@ -1,0 +1,32 @@
+{
+  "aliases": null,
+  "checksum": "",
+  "cors_config": null,
+  "custom_headers": null,
+  "domain_key": "domain-edge",
+  "force_https": true,
+  "gzip_enabled": false,
+  "name": "*",
+  "port": 8080,
+  "redirects": null,
+  "ssl_config": {
+    "cipher_filter": "",
+    "protocols": [
+      "SSLv3",
+      "SSLv2",
+      "TLSv1",
+      "TLSv1.1",
+      "TLSv1.2"
+    ],
+    "cert_key_pairs": [
+      {
+        "certificate_path": "/etc/proxy/tls/sidecar/server.crt",
+        "key_path": "/etc/proxy/tls/sidecar/server.key"
+      }
+    ],
+    "require_client_certs": true,
+    "trust_file": "/etc/proxy/tls/sidecar/ca.crt",
+    "sni": null
+  },
+  "zone_key": "zone-default-zone"
+}

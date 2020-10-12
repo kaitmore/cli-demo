@@ -1,0 +1,39 @@
+{
+  "checksum": "",
+  "circuit_breakers": {
+    "max_connections": 1024,
+    "max_pending_requests": 1024,
+    "max_requests": 1024,
+    "max_retries": 3,
+    "high": null
+  },
+  "cluster_key": "cluster-example-service",
+  "health_checks": [],
+  "instances": [
+    {
+      "host": "example-service-proxy",
+      "port": 8080,
+      "metadata": null
+    },
+    {
+      "host": "example-service-proxy-2",
+      "port": 8080,
+      "metadata": null
+    }
+  ],
+  "lb_policy": "",
+  "name": "example-service",
+  "outlier_detection": null,
+  "secret": {
+    "secret_key": "",
+    "secret_name": "",
+    "secret_validation_name": "",
+    "subject_names": null,
+    "ecdh_curves": null,
+    "set_current_client_cert_details": {
+      "uri": false
+    },
+    "checksum": ""
+  },
+  "zone_key": "zone-default-zone"
+}

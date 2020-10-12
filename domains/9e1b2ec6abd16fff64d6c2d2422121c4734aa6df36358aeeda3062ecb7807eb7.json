@@ -1,0 +1,13 @@
+{
+  "aliases": null,
+  "checksum": "",
+  "cors_config": null,
+  "custom_headers": null,
+  "domain_key": "domain-catalog",
+  "force_https": false,
+  "gzip_enabled": false,
+  "name": "*",
+  "port": 8080,
+  "redirects": null,
+  "zone_key": "zone-default-zone"
+}

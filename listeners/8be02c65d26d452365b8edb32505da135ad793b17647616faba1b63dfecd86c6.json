@@ -1,0 +1,28 @@
+{
+  "active_http_filters": null,
+  "active_network_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-fail-service"
+  ],
+  "http_filters": null,
+  "ip": "0.0.0.0",
+  "listener_key": "listener-fail-service-2",
+  "name": "fail-service",
+  "network_filters": null,
+  "port": 9090,
+  "protocol": "http_auto",
+  "secret": {
+    "secret_key": "",
+    "secret_name": "",
+    "secret_validation_name": "",
+    "subject_names": null,
+    "ecdh_curves": null,
+    "set_current_client_cert_details": {
+      "uri": false
+    },
+    "checksum": ""
+  },
+  "tracing_config": null,
+  "zone_key": "zone-default-zone"
+}

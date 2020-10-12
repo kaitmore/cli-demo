@@ -1,0 +1,20 @@
+{
+  "checksum": "",
+  "cohort_seed": null,
+  "domain_key": "domain-edge",
+  "filter_metadata": null,
+  "high_priority": false,
+  "path": "/",
+  "prefix_rewrite": "/",
+  "redirects": null,
+  "response_data": {},
+  "retry_policy": null,
+  "route_key": "route-edge-dashboard-rewrite",
+  "route_match": {
+    "path": "",
+    "match_type": ""
+  },
+  "rules": null,
+  "shared_rules_key": "shared-rules-dashboard",
+  "zone_key": "zone-default-zone"
+}

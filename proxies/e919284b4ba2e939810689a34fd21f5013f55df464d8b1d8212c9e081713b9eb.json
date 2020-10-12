@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-edge"
+  ],
+  "listener_keys": [
+    "listener-edge",
+    "listener-edge-2"
+  ],
+  "listeners": null,
+  "name": "edge",
+  "proxy_filters": {},
+  "proxy_key": "proxy-edge",
+  "upgrades": "websocket",
+  "zone_key": "zone-default-zone"
+}

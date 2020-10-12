@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-sense"
+  ],
+  "listener_keys": [
+    "listener-sense",
+    "listener-sense-2"
+  ],
+  "listeners": null,
+  "name": "sense",
+  "proxy_filters": {},
+  "proxy_key": "proxy-sense",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

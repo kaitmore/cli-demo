@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-catalog"
+  ],
+  "listener_keys": [
+    "listener-catalog",
+    "listener-catalog-2"
+  ],
+  "listeners": null,
+  "name": "catalog",
+  "proxy_filters": {},
+  "proxy_key": "proxy-catalog",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

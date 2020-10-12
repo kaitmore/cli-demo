@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-dashboard"
+  ],
+  "listener_keys": [
+    "listener-dashboard",
+    "listener-dashboard-2"
+  ],
+  "listeners": null,
+  "name": "dashboard",
+  "proxy_filters": {},
+  "proxy_key": "proxy-dashboard",
+  "upgrades": "websocket",
+  "zone_key": "zone-default-zone"
+}

@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-example-service"
+  ],
+  "listener_keys": [
+    "listener-example-service",
+    "listener-example-service-2"
+  ],
+  "listeners": null,
+  "name": "example-service",
+  "proxy_filters": {},
+  "proxy_key": "proxy-example-service",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-slo-service"
+  ],
+  "listener_keys": [
+    "listener-slo-service",
+    "listener-slo-service-2"
+  ],
+  "listeners": null,
+  "name": "slo-service",
+  "proxy_filters": {},
+  "proxy_key": "proxy-slo-service",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}

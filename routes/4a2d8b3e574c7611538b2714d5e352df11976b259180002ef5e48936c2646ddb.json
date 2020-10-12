@@ -1,0 +1,20 @@
+{
+  "checksum": "",
+  "cohort_seed": null,
+  "domain_key": "domain-sense",
+  "filter_metadata": null,
+  "high_priority": false,
+  "path": "/",
+  "prefix_rewrite": "/",
+  "redirects": null,
+  "response_data": {},
+  "retry_policy": null,
+  "route_key": "route-sense-service",
+  "route_match": {
+    "path": "",
+    "match_type": ""
+  },
+  "rules": null,
+  "shared_rules_key": "shared-rules-sense-service",
+  "zone_key": "zone-default-zone"
+}

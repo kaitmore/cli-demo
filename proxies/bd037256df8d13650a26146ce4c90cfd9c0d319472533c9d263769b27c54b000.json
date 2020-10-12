@@ -1,0 +1,17 @@
+{
+  "active_proxy_filters": null,
+  "checksum": "",
+  "domain_keys": [
+    "domain-fail-service"
+  ],
+  "listener_keys": [
+    "listener-fail-service",
+    "listener-fail-service-2"
+  ],
+  "listeners": null,
+  "name": "fail-service",
+  "proxy_filters": {},
+  "proxy_key": "proxy-fail-service",
+  "upgrades": "null",
+  "zone_key": "zone-default-zone"
+}
