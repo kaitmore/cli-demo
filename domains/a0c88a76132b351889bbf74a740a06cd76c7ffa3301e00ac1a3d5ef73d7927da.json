@@ -26,7 +26,11 @@
     ],
     "require_client_certs": true,
     "trust_file": "/etc/proxy/tls/sidecar/ca.crt",
-    "sni": null
+    "sni": null,
+    "crl": {
+      "filename": "",
+      "inline_string": ""
+    }
   },
   "zone_key": "zone-default-zone"
 }

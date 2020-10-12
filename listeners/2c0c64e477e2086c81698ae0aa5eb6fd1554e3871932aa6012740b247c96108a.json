@@ -1,17 +1,34 @@
 {
+  "access_loggers": {
+    "http_connection_loggers": {
+      "disabled": false,
+      "file_loggers": null,
+      "http_grpc_access_loggers": null
+    },
+    "http_upstream_loggers": {
+      "disabled": false,
+      "file_loggers": null,
+      "http_grpc_access_loggers": null
+    }
+  },
   "active_http_filters": null,
   "active_network_filters": null,
   "checksum": "",
+  "delayed_close_timeout": "",
   "domain_keys": [
     "domain-sleepy-service"
   ],
+  "drain_timeout": "",
+  "http2_protocol_options": null,
   "http_filters": null,
+  "http_protocol_options": null,
   "ip": "0.0.0.0",
   "listener_key": "listener-sleepy-service-2",
   "name": "sleepy-service",
   "network_filters": null,
   "port": 9090,
   "protocol": "http_auto",
+  "request_timeout": "",
   "secret": {
     "secret_key": "",
     "secret_name": "",
@@ -23,6 +40,8 @@
     },
     "checksum": ""
   },
+  "stream_idle_timeout": "",
   "tracing_config": null,
+  "use_remote_address": false,
   "zone_key": "zone-default-zone"
 }

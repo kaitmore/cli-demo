@@ -8,7 +8,10 @@
     "high": null
   },
   "cluster_key": "cluster-isprime-service",
+  "common_lb_config": null,
   "health_checks": [],
+  "http2_protocol_options": null,
+  "http_protocol_options": null,
   "instances": [
     {
       "host": "isprime-service-proxy",
@@ -17,8 +20,12 @@
     }
   ],
   "lb_policy": "",
+  "least_request_lb_config": null,
   "name": "isprime-service",
+  "original_dst_lb_config": null,
   "outlier_detection": null,
+  "protocol_selection": "",
+  "ring_hash_lb_config": null,
   "secret": {
     "secret_key": "",
     "secret_name": "",
